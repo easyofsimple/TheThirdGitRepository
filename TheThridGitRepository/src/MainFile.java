@@ -5,6 +5,8 @@ public class MainFile {
 		theSecondFile.sendMessage();
 		System.out.println("the main file");
 		
-		System.out.println("after pushing to server");
+		System.out.println("Hello the second branch is created, after pushing to server");
+		System.out.println("-----------------------------------------------");
+		System.out.println("print out the again, after the second branch is created");
 	}
 }
