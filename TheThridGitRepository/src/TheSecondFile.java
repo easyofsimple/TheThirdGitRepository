@@ -8,8 +8,7 @@ public class TheSecondFile {
 		for (String data: message) {
 			System.out.println("message: " + data);
 		}
-//		for (int i=0;i<message.length;i++) {
-//			System.out.println("message: " + message[i]);
-//		}
+		
+		
 	}
 }
