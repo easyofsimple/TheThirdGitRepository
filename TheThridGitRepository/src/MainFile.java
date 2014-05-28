@@ -8,5 +8,8 @@ public class MainFile {
 		System.out.println("Hello the second branch is created, after pushing to server");
 		System.out.println("-----------------------------------------------");
 		System.out.println("print out the again, after the second branch is created");
+		System.out.println("Checking out an existing Git Project");
+		
+		
 	}
 }
